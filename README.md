@@ -4,7 +4,9 @@ a simple implementation without any neural networks on a simple domain.
 
 paper : https://arxiv.org/pdf/1903.06059.pdf
 
-this repo is a working implementation of Algorithm 1. in this paper, without any extra fluffs.
+this repo is a working implementation of Algorithm 1. in this paper, without any NN fluffs.
+
+requirements : numpy, sklearn, matplotlib
 
 ## env.py
 
